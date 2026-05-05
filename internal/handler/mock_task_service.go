@@ -3,9 +3,9 @@ package handler
 import (
 	"github.com/stretchr/testify/mock"
 
-	"task-management-api/internal/domain"
-	"task-management-api/internal/dto"
-	"task-management-api/internal/service"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/dto"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/service"
 )
 
 // MockTaskService is a testify mock that satisfies service.TaskService.

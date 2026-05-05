@@ -1,6 +1,6 @@
 package repository
 
-import "task-management-api/internal/domain"
+import "github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
 
 // TaskRepository defines the persistence contract for Task aggregates.
 // Any concrete storage backend (in-memory, SQL, NoSQL) must implement this

@@ -1,6 +1,6 @@
 package dto
 
-import "task-management-api/internal/domain"
+import "github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
 
 // TaskResponse is the JSON representation returned to callers.
 type TaskResponse struct {

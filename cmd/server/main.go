@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"task-management-api/internal/handler"
-	"task-management-api/internal/repository"
-	"task-management-api/internal/service"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/handler"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/repository"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/service"
 )
 
 func main() {

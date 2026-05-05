@@ -5,11 +5,11 @@ import (
 
 	"github.com/google/uuid"
 
-	"task-management-api/internal/domain"
-	apperrors "task-management-api/internal/errors"
-	"task-management-api/internal/dto"
-	"task-management-api/internal/repository"
-	"task-management-api/internal/utils"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
+	apperrors "github.com/bhaskar2610/india-satcom-coding-challange/internal/errors"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/dto"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/repository"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/utils"
 )
 
 // ListOptions carries pagination and filter parameters for GetAll.

@@ -12,10 +12,10 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"task-management-api/internal/dto"
-	"task-management-api/internal/handler"
-	"task-management-api/internal/repository"
-	"task-management-api/internal/service"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/dto"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/handler"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/repository"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/service"
 )
 
 // buildServer wires the full stack (no mocks) and returns a test HTTP server.

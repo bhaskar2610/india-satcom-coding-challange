@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"task-management-api/internal/dto"
-	apperrors "task-management-api/internal/errors"
-	"task-management-api/internal/service"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/dto"
+	apperrors "github.com/bhaskar2610/india-satcom-coding-challange/internal/errors"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/service"
 )
 
 // TaskHandler wires HTTP routes to service use-cases.

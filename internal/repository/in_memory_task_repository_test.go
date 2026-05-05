@@ -7,9 +7,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"task-management-api/internal/domain"
-	apperrors "task-management-api/internal/errors"
-	"task-management-api/internal/repository"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
+	apperrors "github.com/bhaskar2610/india-satcom-coding-challange/internal/errors"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/repository"
 )
 
 func newTask(id, title string) *domain.Task {

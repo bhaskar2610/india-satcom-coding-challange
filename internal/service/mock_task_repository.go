@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/stretchr/testify/mock"
 
-	"task-management-api/internal/domain"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
 )
 
 // MockTaskRepository is a testify mock that satisfies repository.TaskRepository.

@@ -1,4 +1,4 @@
-module task-management-api
+module github.com/bhaskar2610/india-satcom-coding-challange
 
 go 1.25.2
 

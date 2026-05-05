@@ -8,10 +8,10 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"task-management-api/internal/domain"
-	apperrors "task-management-api/internal/errors"
-	"task-management-api/internal/dto"
-	"task-management-api/internal/service"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
+	apperrors "github.com/bhaskar2610/india-satcom-coding-challange/internal/errors"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/dto"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/service"
 )
 
 // ── helpers ──────────────────────────────────────────────────────────────────

@@ -3,8 +3,8 @@ package repository
 import (
 	"sync"
 
-	apperrors "task-management-api/internal/errors"
-	"task-management-api/internal/domain"
+	apperrors "github.com/bhaskar2610/india-satcom-coding-challange/internal/errors"
+	"github.com/bhaskar2610/india-satcom-coding-challange/internal/domain"
 )
 
 // InMemoryTaskRepository is a thread-safe, in-process implementation of
