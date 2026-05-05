@@ -53,12 +53,12 @@ A production-quality Task Management REST API built in **Go** following **Domain
 
 ```bash
 # Clone / navigate to the project
-cd task-management-api
+cd india-satcom-coding-challange
 
 # Install dependencies
 go mod tidy
 
-# Run the server (listens on :8080)
+# Run the server (listens on :8083)
 go run cmd/server/main.go
 ```
 
